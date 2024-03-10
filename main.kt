@@ -1,5 +1,5 @@
 def vivaMechMat():
-  print "Viva Mech-mat faculty"
+  print "Viva Mech-mat faculty!!!"
 
 def print_hello():
   print "Hello World"
